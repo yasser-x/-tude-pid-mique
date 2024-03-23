@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE viruses SYSTEM "virus.dtd">
+<?xml-stylesheet type="text/xsl" href="virus.xslt" version="1.0"?>
+<viruses>
+  <virus>
+    <name>Rabies</name>
+    <discoveryDate>23rd century BC</discoveryDate>
+    <characteristics>Animal bite transmission, aggression, hydrophobia</characteristics>
+    <symptoms>Aggression, hydrophobia, fever</symptoms>
+    <prevention>Vaccination of pets, avoid contact with wild animals</prevention>
+    <history>Rabies is one of the oldest known diseases in history with cases dating back to 4000 years ago. For most of human history, a bite from a rabid animal was uniformly fatal. In the past, people were so scared of rabies that after being bitten by a potentially rabid animal, many would commit suicide.</history>
+  </virus>
+  <virus>
+    <name>Measles</name>
+    <discoveryDate>9th century</discoveryDate>
+    <characteristics>Respiratory transmission, rash, fever</characteristics>
+    <symptoms>Rash, fever, cough</symptoms>
+    <prevention>Vaccination, isolation of infected individuals</prevention>
+    <history>Measles spread worldwide from the Renaissance. Its epidemiology was remarkably studied in 1846 by a Danish physician, Peter Panum, during an epidemic in the Faroe Islands. The viral nature of this disease was demonstrated in 1911 and the virus was identified in 1954 by Thomas Peebles and John Enders.</history>
+  </virus>
+  <virus>
+    <name>Plague of Justinian</name>
+    <discoveryDate>541 AD</discoveryDate>
+    <characteristics>Flea-borne transmission, fever, chills</characteristics>
+    <symptoms>Fever, chills, weakness</symptoms>
+    <prevention>Avoid contact with rodents</prevention>
+    <history>The “Justinianic Plague” is the popular name for a pandemic of bubonic plague in the Late Roman or Byzantine Empire, which first appears in our sources in 541 CE. The pandemic reappeared in waves in different regions over the next two hundred years, ending ca. 750 CE.</history>
+  </virus>
+  <virus>
+    <name>Smallpox</name>
+    <discoveryDate>18th century</discoveryDate>
+    <characteristics>Respiratory transmission, fever, rash</characteristics>
+    <symptoms>Fever, rash, body aches</symptoms>
+    <prevention>Vaccination, isolation of infected individuals</prevention>
+    <history>The origin of smallpox is unknown. The finding of smallpox-like rashes on Egyptian mummies suggests that smallpox has existed for at least 3,000 years. The earliest written description of a disease like smallpox appeared in China in the 4th century CE (Common Era).</history>
+  </virus>
+  <virus>
+    <name>Polio</name>
+    <discoveryDate>1789</discoveryDate>
+    <characteristics>Fecal-oral transmission, paralysis</characteristics>
+    <symptoms>Paralysis, fever, headache</symptoms>
+    <prevention>Vaccination, hand hygiene</prevention>
+    <history>Polio has existed since ancient times and was documented in the written record in the 18th and 19th centuries.While it affected children around the world for millennia, the first known clinical description of polio, by British doctor Michael Underwood, was not until 1789, and it was formally recognized as a condition in 1840 by German physician Jakob Heine.</history>
+  </virus>
+  <virus>
+    <name>Spanish Flu</name>
+    <discoveryDate>1918</discoveryDate>
+    <characteristics>Respiratory transmission, fever, cough</characteristics>
+    <symptoms>Fever, cough, body aches</symptoms>
+    <prevention>Hand hygiene, avoid close contact</prevention>
+    <history>The Spanish flu was a pandemic — a new influenza A virus that spread easily and infected people throughout the world. Because the virus was new, very few people, if any, had some immunity to the disease. From 1918 to 1919, the Spanish flu infected an estimated 500 million people globally.</history>
+  </virus>
+  <virus>
+    <name>Common Cold</name>
+    <discoveryDate>20th century</discoveryDate>
+    <characteristics>Respiratory transmission, runny nose</characteristics>
+    <symptoms>Runny nose, sneezing</symptoms>
+    <prevention>Hand hygiene, avoid close contact</prevention>
+    <history>While the cause of the common cold was identified in the 1950s, the disease appears to have been with humanity since its early history. Its symptoms and treatment are described in the Egyptian Ebers papyrus, the oldest existing medical text, written before the 16th century BCE.</history>
+
+  </virus>
+  <virus>
+    <name>Influenza</name>
+    <discoveryDate>20th century</discoveryDate>
+    <characteristics>Respiratory transmission, fever, chills</characteristics>
+    <symptoms>Fever, chills, body aches</symptoms>
+    <prevention>Flu vaccine, hand hygiene</prevention>
+    <history>Influenza may have been brought to the Americas as early as 1493, when an epidemic disease resembling influenza killed most of the population of the Antilles. The first convincing record of an influenza pandemic was chronicled in 1510. It began in East Asia before spreading to North Africa and then Europe.</history>
+  </virus>
+  <virus>
+    <name>HIV/AIDS</name>
+    <discoveryDate>1980s</discoveryDate>
+    <characteristics>Sexual transmission, blood transmission</characteristics>
+    <symptoms>Fever, fatigue, weight loss</symptoms>
+    <prevention>Safe sex, avoid sharing needles</prevention>
+    <history>Scientists believe that HIV originally came from a virus particular to chimpanzees in West Africa during the 1930s, and originally transmitted to humans through the transfer of blood through hunting. Over the decades, the virus spread through Africa, and to other parts of the world.</history>
+  </virus>
+  <virus>
+    <name>Ebola</name>
+    <discoveryDate>1976</discoveryDate>
+    <characteristics>Body fluid transmission, fever, bleeding</characteristics>
+    <symptoms>Fever, bleeding, weakness</symptoms>
+    <prevention>Hand hygiene, avoid contact with infected individuals</prevention>
+    <history>The first human EVD case in the West Africa outbreak (2014 to 2016) was likely infected via exposure to bats. In addition to bats, EVD has also been documented in people who handled infected chimpanzees, gorillas and forest antelopes, both dead and alive, in Cote d'Ivoire, the Republic of the Congo and Gabon.</history>
+  </virus>
+  <virus>
+    <name>Zika</name>
+    <discoveryDate>1947</discoveryDate>
+    <characteristics>Transmission through Aedes mosquitoes, fever, rash</characteristics>
+    <symptoms>Fever, rash, joint pain, red eyes</symptoms>
+    <prevention>Avoid mosquito bites, safe sex</prevention>
+    <history>Zika virus was first discovered in 1947 and is named after the Zika Forest in Uganda. In 1952, the first human cases of Zika were detected and since then, outbreaks of Zika have been reported in tropical Africa, Southeast Asia, and the Pacific Islands.</history>
+  </virus>
+  <virus>
+    <name>Dengue</name>
+    <discoveryDate>1780</discoveryDate>
+    <characteristics>Transmission through Aedes mosquitoes, fever, rash</characteristics>
+    <symptoms>High fever, severe headache, joint and muscle pain</symptoms>
+    <prevention>Avoid mosquito bites</prevention>
+    <history>Scientists hypothesize that the dengue viruses evolved in nonhuman primates and jumped from these primates to humans in Africa or Southeast Asia between 500 and 1,000 years ago. The distribution of dengue serotypes in 1970 (a) and 2004 (b).</history>
+  </virus>
+  <virus>
+    <name>Marburg virus</name>
+    <discoveryDate>1967</discoveryDate>
+    <characteristics>Transmission through fruit bats, fever, bleeding</characteristics>
+    <symptoms>Fever, severe headache, muscle pain, vomiting, diarrhea, stomach pain, unexplained bleeding or bruising</symptoms>
+    <prevention>Avoid contact with bats and non-human primates, avoid contact with individuals infected with the virus</prevention>
+    <history>Marburg virus was first recognized in laboratory workers in Marburg, Germany, and Belgrade, Yugoslavia, in 1967. These workers had been exposed to tissues and blood from African green monkeys (Cercopithecus aethiops) imported from Uganda.</history>
+  </virus>
+  <virus>
+    <name>SARS-CoV</name>
+    <discoveryDate>2002</discoveryDate>
+    <characteristics>Respiratory transmission, fever, cough</characteristics>
+    <symptoms>Fever, cough, shortness of breath</symptoms>
+    <prevention>Wear masks, hand hygiene, avoid close contact</prevention>
+    <history>Coronavirus disease 2019 (COVID-19) is a contagious disease caused by the virus SARS-CoV-2. The first known case was identified in Wuhan, China, in December 2019. The disease quickly spread worldwide, resulting in the COVID-19 pandemic.</history>
+  </virus>
+  <virus>
+    <name>MERS-CoV</name>
+    <discoveryDate>2012</discoveryDate>
+    <characteristics>Respiratory transmission, fever, cough</characteristics>
+    <symptoms>Fever, cough, shortness of breath</symptoms>
+    <prevention>Wear masks, hand hygiene, avoid close contact</prevention>
+    <history>The first case was identified in June 2012 by Egyptian physician Ali Mohamed Zaki at the Dr. Soliman Fakeeh Hospital in Jeddah, Saudi Arabia, and most cases have occurred in the Arabian Peninsula.[1][6] Over 2,600 cases have been reported as of January 2021, including 45 cases in the year 2020.[3] About 35% of those who are diagnosed with the disease die from it.[1] Larger outbreaks have occurred in South Korea in 2015 and in Saudi Arabia in 2018.</history>
+  </virus>
+  <virus>
+    <name>COVID-19</name>
+    <discoveryDate>2019</discoveryDate>
+    <characteristics>Respiratory transmission, fever, cough</characteristics>
+    <symptoms>Fever, cough, shortness of breath</symptoms>
+    <prevention>Wear masks, social distancing</prevention>
+    <history>The novel human coronavirus disease 2019 (COVID-19) was first reported in Wuhan, China, in 2019, and subsequently spread globally to become the fifth documented pandemic since the 1918 flu pandemic.
+
+      By September 2021, almost two years after COVID-19 was first identified, there had been more than 200 million confirmed cases and over 4.6 million lives lost to the disease. Here, we take an in-depth look at the history of COVID-19 from the first recorded case to the current efforts to curb the spread of the disease with worldwide vaccination programs.</history>
+  </virus>
+</viruses>

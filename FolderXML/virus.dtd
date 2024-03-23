@@ -1,0 +1,9 @@
+
+<!ELEMENT viruses (virus+)>
+<!ELEMENT virus (name, discoveryDate, characteristics, symptoms, prevention,history)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT discoveryDate (#PCDATA)>
+<!ELEMENT characteristics (#PCDATA)>
+<!ELEMENT symptoms (#PCDATA)>
+<!ELEMENT prevention (#PCDATA)>
+<!ELEMENT history (#PCDATA)>
